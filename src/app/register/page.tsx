@@ -6,7 +6,7 @@ const Register = () => {
       <div className="bg-register lg:block  md:w-1/2 xl:w-2/3 h-screen w-1/2 sm:w"></div>
       <div
         className="bg-white w-full md:max-w-md lg:max-w-full  md:w-1/2 xl:w-1/3 h-screen px-6 lg:px-16 xl:px-12
-        flex items-center justify-center"
+        flex  justify-center"
       >
         <div className="w-full h-100">
           <h1 className="text-xl md:text-2xl font-bold leading-tight mt-12">
